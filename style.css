@@ -1,0 +1,29 @@
+#submitbtn{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+#sortbtn{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    display: none;
+    font-family: 'Times New Roman', Times, serif;
+}
+h1{
+    font-family: 'Montagu Slab', serif;
+}
+input{
+    margin: 10px;
+    border: black;
+    border-radius: 10px;
+    width: 30%;
+    height: 20px;
+}
+input:hover{
+    background-color: darkorange;
+    font-style: bold;
+}
+body{
+    background-image: url('https://media.istockphoto.com/vectors/minimal-cute-handpainted-daisies-and-dots-on-sky-blue-background-vector-id1140842996');
+    background-size: cover;
+}
